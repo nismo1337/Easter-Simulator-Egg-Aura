@@ -3,11 +3,8 @@ http.load("https://raw.githubusercontent.com/CluePortal/ZarScriptHelper/main/Mor
 local calc = 1
 
 local notsaid = true
-local saidpick = true
 local mining = false
 local C02 = false
-local saidaxe = true
-local toolsswapped
 
 local Egg = nil
 local setGround = 0
